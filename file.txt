@@ -6,5 +6,5 @@ Agregamos otro cambio
 Agregamos otro cambio 2
 
 Agrego componenetes de la nueva rama
-
+e grergan cosas de la master|
 Otro cambio para verificar el editor
