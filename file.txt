@@ -5,6 +5,11 @@ Agregamos otro cambio
 
 Agregamos otro cambio 2
 
+<<<<<<< HEAD
 Agrego componenetes de la nueva rama
 e grergan cosas de la master|
+=======
+Agrego componenetes de la nueva rama hfhfhfh hfhfhfhf hfhfhfhf
+
+>>>>>>> first_rama
 Otro cambio para verificar el editor
